@@ -2,7 +2,7 @@
 
 광고·로그인 없는 가벼운 Mac 캡처·편집 앱 · 캡처는 어디에도 보내지 않아요
 
-> 이 안내는 캡처노트 0.7.11 (2026년 11월 5일) 기준이에요. 업데이트로 화면·메뉴·기능이 바뀔 수 있어요.
+> 이 안내는 캡처노트 0.7.12 (2026년 11월 5일) 기준이에요. 업데이트로 화면·메뉴·기능이 바뀔 수 있어요.
 
 ## 다운로드
 
@@ -12,10 +12,8 @@
 
 ## 📖 그림으로 된 설명서
 
-- **설치설명서** — 받기, 옮기기, 처음 열 때 경고, 권한 켜기, 새 버전으로 바꾸기
-  https://docs.google.com/document/d/1E2zwZgrrjrd_ZpgDxQn1FcGtWOpWkBakpxkyQlUamE4/edit?usp=sharing
-- **사용설명서** — 캡처, 편집 도구, 스크롤 캡처, 복사·저장, 설정, 단축키
-  https://docs.google.com/document/d/1V7eCXR2h0UHrrRBBXPKwjIsbwsk135NoF4wzgTIi-QM/edit?usp=sharing
+- **캡처노트 설명서** — 설치, 처음 열 때 경고, 권한 켜기, 새 버전으로 바꾸기, 캡처·편집 도구·스크롤 캡처·복사·저장·설정·단축키
+  https://docs.google.com/document/d/18yo7YwjSgfy4vS8v2x-rQjaZ394a9tY0hAmsTocAR00/edit?usp=sharing
 
 ## 처음 실행하는 법
 
@@ -37,7 +35,7 @@
 
 - **⌘⇧D** → 드래그: 찍고 바로 복사, **⌘V** 로 붙여넣기
 - **⌘⇧F**: 전체 화면 / **⌘⇧S**: 스크롤 캡처 (드래그 또는 한 번 클릭, 끝까지 자동으로 내려가요)
-- 자세한 사용법은 **사용설명서**: https://docs.google.com/document/d/1V7eCXR2h0UHrrRBBXPKwjIsbwsk135NoF4wzgTIi-QM/edit?usp=sharing
+- 자세한 사용법은 **설명서**: https://docs.google.com/document/d/18yo7YwjSgfy4vS8v2x-rQjaZ394a9tY0hAmsTocAR00/edit?usp=sharing
 
 Apple 칩(M1 이후) Mac · macOS 14 이후 · 추가 설치 없음 · 무료 · 캡처·개인 정보는 어디에도 보내지 않아요 (하루 한 번 새 버전 번호만 확인, 설정에서 끄기)
 
